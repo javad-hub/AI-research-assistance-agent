@@ -1,34 +1,52 @@
-# AI Research Assistance Agent
+# 🤖 AI Research Assistance Agent
 
-An AI-powered research assistant built to help users search, understand, summarize, and organize research information more efficiently.  
-The project uses modern Large Language Model APIs to support academic and technical research workflows through an interactive app interface.
+An AI-powered research assistant built to help users **search, understand, summarize, and organize research information** more efficiently.
 
-## Overview
+The project uses modern **Large Language Model APIs** to support academic and technical research workflows through an interactive app interface.
 
-The AI Research Assistance Agent is designed to make research faster and easier by helping users process long text, extract important ideas, generate summaries, and interact with research-related content in a more natural way.
+---
 
-This project was built as a learning and portfolio project to demonstrate practical skills in AI application development, Python programming, API integration, prompt engineering, and user interface development.
+## 📌 Overview
 
-## Features
+The **AI Research Assistance Agent** is designed to make research faster and easier by helping users process long text, extract important ideas, generate summaries, and interact with research-related content in a more natural way.
 
-- AI-powered text understanding and response generation
-- Research topic assistance
-- Summarization of long content
-- Question-answering support
-- Clean and simple user interface
-- Environment-based API key management
-- Modular Python project structure
-- Beginner-friendly and easy to extend
+This project was built as a **learning and portfolio project** to demonstrate practical skills in:
 
-## Tech Stack
+- 🧠 AI application development
+- 🐍 Python programming
+- 🔌 API integration
+- ✍️ Prompt engineering
+- 🖥️ User interface development
+- 🔐 Environment-based secret management
 
-- Python
-- Streamlit
-- Anthropic API / LLM API integration
-- dotenv for environment variable management
-- Git and GitHub for version control
+---
 
-## Project Structure
+## ✨ Features
+
+- 🤖 AI-powered text understanding and response generation
+- 🔍 Research topic assistance
+- 📝 Summarization of long content
+- ❓ Question-answering support
+- 📄 Support for research-related text processing
+- 🖥️ Clean and simple Streamlit user interface
+- 🔐 Environment-based API key management
+- 🧱 Modular Python project structure
+- 🛠️ Beginner-friendly and easy to extend
+
+---
+
+## 🧰 Tech Stack
+
+- 🐍 **Python**
+- 🎈 **Streamlit**
+- 🧠 **Anthropic API / LLM API integration**
+- 🔐 **python-dotenv** for environment variable management
+- 🌿 **Git**
+- 🐙 **GitHub**
+
+---
+
+## 📁 Project Structure
 
 ```text
 AI-research-assistance-agent/
